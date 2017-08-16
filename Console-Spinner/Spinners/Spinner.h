@@ -3,7 +3,7 @@
 
 #include <string>
 
-#include "IPrintable.h"
+#include "..\IPrintable.h"
 
 using namespace std;
 

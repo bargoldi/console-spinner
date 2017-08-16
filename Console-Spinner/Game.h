@@ -4,8 +4,8 @@
 #include <iostream>
 
 #include "ColorMap.h"
-#include "Instructions.h"
-#include "Spinner.h"
+#include "Menus\Instructions.h"
+#include "Spinners\Spinner.h"
 
 class Game {
 public:

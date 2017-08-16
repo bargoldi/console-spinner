@@ -6,8 +6,8 @@
 #include <Windows.h>
 
 #include "Game.h"
-#include "Spinner.h"
-#include "Instructions.h"
+#include "Spinners\Spinner.h"
+#include "Menus\Instructions.h"
 #include "ColorMap.h"
 #include "Utils.h"
 

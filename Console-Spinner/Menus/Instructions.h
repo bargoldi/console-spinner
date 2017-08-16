@@ -1,7 +1,7 @@
 #ifndef INSTRUCTIONS_HEADER
 #define INSTRUCTIONS_HEADER
 
-#include "IPrintable.h"
+#include "..\IPrintable.h"
 
 class Instructions : public IPrintable
 {

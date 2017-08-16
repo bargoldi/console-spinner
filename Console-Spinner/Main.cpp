@@ -1,7 +1,7 @@
-#include "SpinnerSelectionMenu.h"
+#include "Menus\SpinnerSelectionMenu.h"
 #include "Game.h"
-#include "Spinner.h"
-#include "SpinnerFactory.h"
+#include "Spinners\Spinner.h"
+#include "Spinners\SpinnerFactory.h"
 
 using namespace std;
 

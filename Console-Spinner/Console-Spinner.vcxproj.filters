@@ -27,31 +27,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SpinnerSelectionMenu.cpp">
+    <ClCompile Include="Menus\SpinnerSelectionMenu.cpp">
       <Filter>Source Files\Menus</Filter>
     </ClCompile>
-    <ClCompile Include="SpinnerFactory.cpp">
+    <ClCompile Include="Spinners\SpinnerFactory.cpp">
       <Filter>Source Files\Spinners</Filter>
     </ClCompile>
-    <ClCompile Include="TwoLinesSpinner.cpp">
+    <ClCompile Include="Spinners\TwoLinesSpinner.cpp">
       <Filter>Source Files\Spinners</Filter>
     </ClCompile>
-    <ClCompile Include="Spinner.cpp">
+    <ClCompile Include="Spinners\Spinner.cpp">
       <Filter>Source Files\Spinners</Filter>
     </ClCompile>
     <ClCompile Include="Game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Instructions.cpp">
+    <ClCompile Include="Menus\Instructions.cpp">
       <Filter>Source Files\Menus</Filter>
     </ClCompile>
     <ClCompile Include="IPrintable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ThreeLinesSpinner.cpp">
+    <ClCompile Include="Spinners\ThreeLinesSpinner.cpp">
       <Filter>Source Files\Spinners</Filter>
     </ClCompile>
-    <ClCompile Include="OneLineSpinner.cpp">
+    <ClCompile Include="Spinners\OneLineSpinner.cpp">
       <Filter>Source Files\Spinners</Filter>
     </ClCompile>
     <ClCompile Include="ColorMap.cpp">
@@ -68,28 +68,28 @@
     <ClInclude Include="IPrintable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="SpinnerSelectionMenu.h">
+    <ClInclude Include="Menus\SpinnerSelectionMenu.h">
       <Filter>Header Files\Menus</Filter>
     </ClInclude>
-    <ClInclude Include="Spinner.h">
+    <ClInclude Include="Spinners\Spinner.h">
       <Filter>Header Files\Spinners</Filter>
     </ClInclude>
-    <ClInclude Include="SpinnerFactory.h">
+    <ClInclude Include="Spinners\SpinnerFactory.h">
       <Filter>Header Files\Spinners</Filter>
     </ClInclude>
-    <ClInclude Include="TwoLinesSpinner.h">
+    <ClInclude Include="Spinners\TwoLinesSpinner.h">
       <Filter>Header Files\Spinners</Filter>
     </ClInclude>
     <ClInclude Include="Game.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Instructions.h">
+    <ClInclude Include="Menus\Instructions.h">
       <Filter>Header Files\Menus</Filter>
     </ClInclude>
-    <ClInclude Include="ThreeLinesSpinner.h">
+    <ClInclude Include="Spinners\ThreeLinesSpinner.h">
       <Filter>Header Files\Spinners</Filter>
     </ClInclude>
-    <ClInclude Include="OneLineSpinner.h">
+    <ClInclude Include="Spinners\OneLineSpinner.h">
       <Filter>Header Files\Spinners</Filter>
     </ClInclude>
     <ClInclude Include="ColorMap.h">
